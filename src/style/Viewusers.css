@@ -1,0 +1,60 @@
+#viewcontainer {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 600px;
+  padding: 20px;
+}
+.backbutton {
+  background-color: white;
+  border: none;
+  font-size: 25px;
+  margin-left: -280px;
+  margin-top: -45px;
+  position: absolute;
+}
+#view {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+#viewusersid {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+#viewusersemail {
+  display: flex;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+#viewusersfirstname {
+  display: flex;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+#viewuserslastname {
+  display: flex;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+#viewusrsavatar {
+  display: flex;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+#viewresourcesid {
+  display: flex;
+}
+#viewresourcescolor {
+  display: flex;
+}
+#viewresourcesname {
+  display: flex;
+}
+#viewresourcesvalue {
+  display: flex;
+}
+#viewresourceyear {
+  display: flex;
+}

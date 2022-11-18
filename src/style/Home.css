@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #f3f3f3f8;
+  width: auto;
+}
+.navbar ul {
+  display: flex;
+}
+.navbar ul li {
+  list-style: none;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.navbar ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+.navbar ul li a:hover {
+  color: brown;
+}
+#logoutlink {
+  right: 20px;
+  position: absolute;
+}
+.logoutlink {
+  right: 45px;
+  position: absolute;
+}
+#logoutbutton {
+  border: none;
+  font-size: 18px;
+  background-color: #f3f3f3f8;
+}

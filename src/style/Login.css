@@ -1,0 +1,57 @@
+#logincontainer {
+  width: 360px;
+  height: 450px;
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+  padding: 50px 40px;
+  background-color: lavender;
+  margin-top: 100px;
+}
+#loginoutercontainer {
+  display: flex;
+  justify-content: center;
+}
+#registerbutton {
+  margin-left: 190px;
+}
+#cancelbutton {
+  position: absolute;
+  margin-top: -38px;
+  margin-left: -138px;
+}
+.fieldpassword {
+  position: absolute;
+  margin-top: -54px;
+  margin-left: 235px;
+}
+.captcha {
+  background-color: lightgray;
+  height: 30px;
+  font-size: 22px;
+  font-family: "Permanent Marker", cursive;
+}
+.captchaBox {
+  margin-bottom: 5px;
+}
+.captchaTextBox {
+  margin-bottom: 15px;
+  width: 70px;
+  outline: none;
+}
+#captchaspan {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+.resetButton{
+  border: none;
+  font-size: 18px;
+  margin-left: 10px;
+  background-color: lavender;
+}
+#idControl{
+  caret-color: brown;
+}

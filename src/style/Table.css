@@ -1,0 +1,27 @@
+.th1 {
+  width: 100px;
+}
+.th2 {
+  width: 300px;
+}
+.th3 {
+  width: 200px;
+}
+.th4 {
+  width: 200px;
+}
+.td5 {
+  height: 150px;
+  width: 50px;
+}
+.action_handler {
+  background-color: white;
+  border: none;
+  font-size: 20px;
+}
+.actionview {
+  width: 10px;
+}
+.actiondelete {
+  width: 10px;
+}
